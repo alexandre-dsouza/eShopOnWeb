@@ -9,7 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: f1acc919-0eb0-465b-a44a-ffbc80eb7556
-  WEBAPP-NAME: az400-webapp-fastlanecourse
+  WEBAPP-NAME: az400-webapp-curso-fastlane150323
 
 jobs:
   #Build, test and publish .net web project in repository
